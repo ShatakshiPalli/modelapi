@@ -1,0 +1,10 @@
+# .vercelignore
+*.pyc
+__pycache__/
+*.pkl
+*.json
+*.log
+*.csv
+*.txt
+*.md
+venv/

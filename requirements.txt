@@ -1,6 +1,8 @@
 scikit-learn
 pandas
 numpy
-Flask
+Flask==2.0.1
+waitress==2.0.0
+joblib==1.0.1
 joblib
 
