@@ -1,5 +1,4 @@
-# .vercelignore
-*.pyc
+_pycache*.pyc
 __pycache__/
 *.pkl
 *.json
