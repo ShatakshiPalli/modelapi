@@ -35,5 +35,3 @@ def predict():
 def home():
     return "Welcome to the Medical Specialty Prediction API!"
 
-if __name__ == "__main__":
-    app.run(debug=True)
